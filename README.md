@@ -17,14 +17,15 @@ En otras palabras, si una clase `Car` hereda de `Vehicle`, entonces deberíamos 
 
 ```text
 LSP/
-├── interfaces/
+├── Solucion/
 │   ├── IMovable.java
 │   └── ITurnable.java
-├── vehicles/
 │   ├── RoadVehicle.java
 │   ├── RailVehicle.java
 │   ├── Car.java
 │   └── Train.java
+├── Navigator.java
+├── Vehicle.java
 └── Main.java
 ```
 ---
