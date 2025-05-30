@@ -17,14 +17,15 @@ En otras palabras, si una clase `Car` hereda de `Vehicle`, entonces deberíamos 
 
 LSP/
 ├── interfaces/
-│ ├── IMovable.java
-│ └── ITurnable.java
+│   ├── IMovable.java
+│   └── ITurnable.java
 ├── vehicles/
-│ ├── RoadVehicle.java
-│ ├── RailVehicle.java
-│ ├── Car.java
-│ └── Train.java
+│   ├── RoadVehicle.java
+│   ├── RailVehicle.java
+│   ├── Car.java
+│   └── Train.java
 └── Main.java
+
 ---
 
 ## 🛠️ Tecnologías
