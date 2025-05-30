@@ -15,6 +15,7 @@ En otras palabras, si una clase `Car` hereda de `Vehicle`, entonces deberíamos 
 
 ## 📦 Estructura del Proyecto
 
+```text
 LSP/
 ├── interfaces/
 │   ├── IMovable.java
@@ -25,7 +26,7 @@ LSP/
 │   ├── Car.java
 │   └── Train.java
 └── Main.java
-
+```
 ---
 
 ## 🛠️ Tecnologías
